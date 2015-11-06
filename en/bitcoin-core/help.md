@@ -50,7 +50,7 @@ can use the following resources:
 
 ## Forums
 
-Bitcoin was a wide range of [communities][communities], but the following places
+Bitcoin has a wide range of [communities][communities], but the following places
 are the best place to ask for help using Bitcoin Core:
 
 - [Bitcoin StackExchange][] is a community dedicated entirely to
